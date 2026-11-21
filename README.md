@@ -4,6 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Game](https://img.shields.io/badge/game-Dragon's%20Dogma%202-red.svg)](#requirements)
 [![REFramework](https://img.shields.io/badge/tool-REFramework-orange.svg)](https://github.com/praydog/REFramework)
+[![Nexus](https://www.nexusmods.com/dragonsdogma2/mods/2667?tab=description)
 
 **Português (Brasil): [README.pt-BR.md](README.pt-BR.md)**
 

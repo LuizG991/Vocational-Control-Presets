@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Game](https://img.shields.io/badge/game-Dragon's%20Dogma%202-red.svg)](#requirements)
 [![REFramework](https://img.shields.io/badge/tool-REFramework-orange.svg)](https://github.com/praydog/REFramework)
-[![Nexus](https://www.nexusmods.com/dragonsdogma2/mods/2667?tab=description)
+[![Nexus](https://camo.githubusercontent.com/5fcd212a49dbbd9fcf00c0f21f32ad18a2b9b2a3f85e2447b9305a8ba1b4e08f/68747470733a2f2f696d672e736869656c64732e696f2f656e64706f696e743f7374796c653d666c61742d7371756172652675726c3d6874747073253341253246253246676973742e67697468756275736572636f6e74656e742e636f6d2532467261646a333037253246653961383037333165653233366363363766623030623639386537353230316525324672617725324635323330303734646662316136306662613931376131323332663933383266613563666563356462253246656e64706f696e742e6a736f6e)(https://www.nexusmods.com/dragonsdogma2/mods/2667?tab=description)
 
 **Português (Brasil): [README.pt-BR.md](README.pt-BR.md)**
 

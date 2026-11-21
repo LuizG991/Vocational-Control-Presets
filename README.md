@@ -1,5 +1,5 @@
 # Vocational Control Presets
-
+**Language:** English · [Português (Brasil)](README.pt-BR.md)
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](CHANGELOG.md)
 [![Game](https://img.shields.io/badge/game-Dragon's%20Dogma%202-red.svg)](#requirements)
 [![REFramework](https://img.shields.io/badge/tool-REFramework-orange.svg)](https://github.com/praydog/REFramework)
